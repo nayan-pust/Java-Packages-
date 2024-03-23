@@ -1,5 +1,6 @@
 # Java-Packages-
-```ruby import java.awt.*;
+```ruby
+import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 ```
